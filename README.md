@@ -1,6 +1,8 @@
-# Project 10 — AI Customer Support Agent Evaluation & Benchmarking Platform
+# AI Customer Support Agent Evaluation & Benchmarking Platform
 
 A Streamlit portfolio application for evaluating customer support responses from uploaded transcripts or a user-configured live agent endpoint. It combines transparent Python heuristics with an optional OpenAI-compatible LLM-as-a-judge adapter. A local SQLite database stores run summaries, case results, human reviews, and audit events.
+
+**Live app:** https://support-agent-evaluator.streamlit.app/
 
 ## Features
 
